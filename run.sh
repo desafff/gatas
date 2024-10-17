@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./ccminer -a verus -o stratum+tcp://na.luckpool.net:3960 -u R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T.ggs5 -p x -t 6
+./ccminer -a verus -o stratum+tcp://na.luckpool.net:3960 -u R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T.ggs1 -p x -t 6
